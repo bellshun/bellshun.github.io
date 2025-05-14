@@ -1,18 +1,18 @@
-baseURL = 'https://superherobtf1985.github.io'
+baseURL = 'https://bellshun.github.io'
 languageCode = 'ja-jp'
 title = 'ポートフォリオまとめ'
 theme = 'github-style'
 defaultContentLanguage = "ja"
-copyright = "Copyright © 2022 ShunT"
+copyright = "Copyright © 2022 bellshun"
 summarylength = 60
 HasCJKLanguage = true
 pygmentsUseClasses = true
 pygmentsCodefences = true 
 
 [params]
-  author = "ShunT"
+  author = "bellshun"
   description = "趣味で作成したものを掲載します"
-  github = "superherobtf1985"
+  github = "bellshun"
   twitter = "bellshun_9973"
   url = "https://note.com/memomemotarou"
   keywords = "blog, google analytics"
